@@ -194,7 +194,6 @@ st.title("Linear Search Algorithm")
 st.markdown("<p class='fade-in' style='color: #a1a1a6; margin-bottom: 3rem; font-size: 1.8rem !important;'>An elegant, high-contrast breakdown of the foundation of search algorithms.</p>", unsafe_allow_html=True)
 
 # Massive sidebar navigation
-st.sidebar.markdown("<h2 style='text-align: center;'>PRESENTATION<br>NAVIGATOR</h2>", unsafe_allow_html=True)
 section = st.sidebar.radio("", [
     "Introduction & Concept",
     "Implementation",
